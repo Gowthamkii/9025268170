@@ -1,6 +1,6 @@
 
   body {
-    background-image: url('./img/me.png');
+    background-image: url('./me.png');
     background-size: cover; /* Adjust background size as needed */
     background-position: center; /* Center the background image */
     color: greenyellow; /* Set text color for better contrast */
